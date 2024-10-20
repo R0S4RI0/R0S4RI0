@@ -5,7 +5,7 @@
 Estudiante de desarrollo de videojuegos, apasionada por la creación de experiencias interactivas y la programación. Actualmente enfocada en aprender sobre **Unity** y **C#** para crear juegos emocionantes.
 
 ### 🚀 Tecnologías y herramientas:
-![Unity]([https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white]  [https://unity.com/es`])
+![Unity]([https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🎮 Proyectos de videojuegos:
