@@ -1,5 +1,5 @@
 ### ¡Hola! Soy Rosario 👋
-H![Rosario's Banner](BANNER.png)
+[Rosario's Banner](BANNER.png)
 Estudiante de desarrollo de videojuegos, apasionada por la creación de experiencias interactivas y la programación. Actualmente enfocada en aprender sobre **Unity** y **C#** para crear juegos emocionantes.
 
 ### 🚀 Tecnologías y herramientas:
