@@ -14,8 +14,10 @@ Estudiante de desarrollo de videojuegos, apasionada por la creación de experien
 - [Proyecto 2](https://github.com/tuusuario/proyecto2) - Un juego de aventuras 3D utilizando Unreal Engine.
 
 ### 🌐 Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
+[![ArtStation](https://img.shields.io/badge/ArtStation-5B4B9A?style=for-the-badge&logo=artstation&logoColor=white)]([https://www.artstation.com/tuusuario](https://rosarioarte.artstation.com/))
+
 
 ### 📊 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
