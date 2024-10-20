@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Rosario 👋
-![Rosario's Banner]([https://github.com/R0S4RI0/R0S4RI0/blob/main/BANNER.png])
+![Rosario's Banner]([[https://github.com/R0S4RI0/R0S4RI0/blob/main/BANNER.png](https://drive.google.com/drive/u/1/folders/1ohLwK8ZuJDUGfXr-Bp4hEysEWggjFnsa)])
 
 ## ¡Hola! Soy Rosario 👋
 Estudiante de desarrollo de videojuegos, apasionada por la creación de experiencias interactivas y la programación. Actualmente enfocada en aprender sobre **Unity** y **C#** para crear juegos emocionantes.
