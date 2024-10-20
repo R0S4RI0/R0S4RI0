@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Rosario 👋
-![Rosario's Banner]([[ruta/a/tu/imagen.png]([https://github.com/R0S4RI0/ReADME/blob/main/BANNER.webp)](https://github.com/R0S4RI0/ReADME/blob/main/BANNER.png](https://github.com/R0S4RI0/R0S4RI0/blob/main/BANNER.png)))
+![Rosario's Banner]([https://github.com/R0S4RI0/R0S4RI0/blob/main/BANNER.png])
 
 ## ¡Hola! Soy Rosario 👋
 Estudiante de desarrollo de videojuegos, apasionada por la creación de experiencias interactivas y la programación. Actualmente enfocada en aprender sobre **Unity** y **C#** para crear juegos emocionantes.
