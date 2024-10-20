@@ -15,7 +15,8 @@ Estudiante de desarrollo de videojuegos, apasionada por la creación de experien
 
 ### 🌐 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-del-rosario-palencia/)
+
 [![ArtStation](https://img.shields.io/badge/ArtStation-5B4B9A?style=for-the-badge&logo=artstation&logoColor=white)](https://rosarioarte.artstation.com/)
 
 
