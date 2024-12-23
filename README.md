@@ -12,9 +12,10 @@ Estudiante de curso de especialización de videojuegos, apasionada por la creaci
 
 
 ### 🎮 Proyectos de videojuegos:
-- [Proyecto 1]([[https://github.com/tuusuario/proyecto1]](https://github.com/R0S4RI0/Breakout-Arkanoid)) - Breakout / Arkanoid
+- [Proyecto 1](https://github.com/R0S4RI0/Breakout-Arkanoid) - Breakout / Arkanoid
 - [Proyecto 2](https://github.com/tuusuario/proyecto1) - Un juego 2D de plataformas creado en Unity.
 - [Proyecto 3](https://github.com/tuusuario/proyecto2) - Un juego de aventuras en 3D utilizando Unity.
+
 
 ### 🌐 Encuéntrame en:
 
