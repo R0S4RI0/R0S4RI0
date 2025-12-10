@@ -21,7 +21,7 @@ Actualmente trabajo en proyectos personales y colaborativos.
 ### 🎮 Proyectos de videojuegos:
 - [Proyecto 1](https://github.com/R0S4RI0/Breakout-Arkanoid) - Breakout / Arkanoid
 - [Proyecto 2](https://github.com/R0S4RI0/SuperMarioBrosMDRNES.git) - Un juego 2D de plataformas creado en Unity.
-- [Proyecto 3](https://github.com/Overlocker96/Shooter-Sci-Fi.git) (https://github.com/tuusuario/proyecto2) - Shooter-Sci-Fi un juego en 3D utilizando Unity colaborativo.
+- [Proyecto 3](https://github.com/Overlocker96/Shooter-Sci-Fi.git)  - Shooter-Sci-Fi un juego en 3D utilizando Unity colaborativo.
 
 
 ### 🌐 Encuéntrame en:
@@ -34,4 +34,6 @@ Actualmente trabajo en proyectos personales y colaborativos.
 
 ### 📊 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+### 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=R0S4RI0&show_icons=true&theme=radical)
 
