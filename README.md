@@ -31,9 +31,6 @@ Actualmente trabajo en proyectos personales y colaborativos.
 [![ArtStation](https://img.shields.io/badge/ArtStation-5B4B9A?style=for-the-badge&logo=artstation&logoColor=white)](https://rosarioarte.artstation.com/)
 
 
-
-### 📊 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 ### 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=R0S4RI0&show_icons=true&theme=radical)
 
