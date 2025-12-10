@@ -1,5 +1,6 @@
 
 ![Rosario's Banner](BANNER.png)
+![Rosario's Banner](mibanner.png)
 
 ### ¡Hola! Soy Rosario 👋  
 Desarrolladora de videojuegos y creadora de contenido 3D.  
