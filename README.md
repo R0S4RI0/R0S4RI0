@@ -32,5 +32,5 @@ Actualmente trabajo en proyectos personales y colaborativos.
 
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ROS4RIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=R0S4RI0&show_icons=true&theme=radical)
 
