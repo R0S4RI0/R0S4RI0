@@ -1,5 +1,4 @@
 
-![Rosario's Banner](BANNER.png)
 ![Rosario's Banner](mibanner.png)
 
 ### ¡Hola! Soy Rosario 👋  
